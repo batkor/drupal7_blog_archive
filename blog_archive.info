@@ -1,0 +1,9 @@
+name = Blog Archive
+description = Blog Archive as Blogger.com
+package = IT Crowd
+core = 7.x
+dependencies[] = views
+scripts[] = blog_archive.js
+
+version = "7.x-1.0"
+core = "7.x"
